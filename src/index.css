@@ -1,4 +1,6 @@
 body{
   font: 14px "Century Gothic", Futura, sans-serif;
   background-color: #d5ff80;
+  display: flex;
+  justify-content: center;
 }

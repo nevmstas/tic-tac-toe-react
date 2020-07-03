@@ -9,6 +9,7 @@ const Button = styled.button`
     font-size: 3rem;
     border:1px;
     width:5rem;
+    height:5rem;
     box-shadow: 0 0 10px rgba(0,0,0, 0.3);
     transition: .2s;
     outline:none;
@@ -28,3 +29,5 @@ export const Square = ({value, onClick}) => {
         </Button>
     )
 }
+
+
